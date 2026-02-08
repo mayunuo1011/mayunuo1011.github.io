@@ -2,7 +2,7 @@
 layout: page
 title: 留言板
 icon: fas fa-comment-dots
-order: 4
+order: 5
 ---
 
 这里是仙剑三鉴赏bot留言簿。📝
