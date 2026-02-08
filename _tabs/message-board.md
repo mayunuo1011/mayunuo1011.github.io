@@ -1,8 +1,9 @@
 ---
 layout: page
 title: 留言板
-icon: fas fa-comment-dots
+icon: fas fa-stream
 order: 5
+comments: true
 ---
 
 这里是仙剑三鉴赏bot留言簿。📝
